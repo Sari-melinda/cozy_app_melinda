@@ -21,7 +21,7 @@ class CircularImage extends StatelessWidget {
               bottomRight: Radius.circular(40),
             ),
             child: Image.asset(
-              'assets/images/person1.jpg',
+              'assets/images/person1.png',
               fit: BoxFit.cover,
             ),
           ),
